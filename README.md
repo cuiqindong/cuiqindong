@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 **热爱Python与计算机**  
 
-我的电子邮箱是 __ cuiqind@outlook.com __
+我的电子邮箱是 cuiqind@outlook.com  
 欢迎大家归我留言  
 
