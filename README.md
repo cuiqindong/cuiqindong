@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 来自中国河南开封市 开封市第十三中学  
 我是一名初中生  
 
-* 热爱Python与计算机
+* 热爱Python与计算机*
